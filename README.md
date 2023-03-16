@@ -106,3 +106,14 @@ An unknown type X word
 - Adjective Rule: Adverb + X + Noun
 - -ing Rule: Verb + X (finished with -ing)
 - Capitalization Rule: X (Started with a capital letter)
+
+
+---
+## Word2Vec Algorithms
+
+To learn the word, help is taken from the words next to it. Generally, there are two types.
+
+- 1-) Skip-Gram: It guesses the words in the middle from the words on the side.
+- 2-) CBOW (Continuous Bag Of Word): Guess the middle word from the words on the side.
+
+![](https://github.com/asametyildirim/Natural-Language-Processing/blob/main/word2vec.png)
