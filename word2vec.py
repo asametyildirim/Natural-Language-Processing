@@ -13,7 +13,7 @@ corpus = []
 
 # put sentences in list
 for sentence in t_list:
-corus.append(cumle.split())
+ corpus.append(cumle.split())
 
 #print to screen
 print(corpus[:10])
