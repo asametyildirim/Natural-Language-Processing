@@ -117,3 +117,7 @@ To learn the word, help is taken from the words next to it. Generally, there are
 - 2-) CBOW (Continuous Bag Of Word): Guess the middle word from the words on the side.
 
 ![](https://github.com/asametyildirim/Natural-Language-Processing/blob/main/word2vec.png)
+
+if you try the file [here](word2vec.py), you will get an output like this
+
+![](word2vec-demo.png)
