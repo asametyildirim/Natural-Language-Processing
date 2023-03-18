@@ -60,6 +60,6 @@ def closestwords_tsneplot(model,word):
 	plt.show()
 	
 	
-closestwords_tsneplot(model, 'Ankara')
+closestwords_tsneplot(model, 'iş')
 	
 	
